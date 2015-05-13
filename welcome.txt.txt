@@ -2,6 +2,3 @@ welcome to git world! scope intl.
 
 added in muruga git
 
-third time
-
-fourth time at desktop!
